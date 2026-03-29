@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-29T19:15:07.879609+00:00",
+  "last_updated": "2026-03-29T19:30:07.960533+00:00",
   "scoreboard": [
     {
       "game_id": 2025021167,
       "away": "FLA",
       "home": "NYR",
       "away_score": 0,
-      "home_score": 1,
-      "state": "LIVE",
+      "home_score": 3,
+      "state": "CRIT",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-29T17:00:00Z"
@@ -75,7 +75,7 @@
   "today_games": [
     {
       "date": "2026-03-29",
-      "time": "13:15:05",
+      "time": "13:30:05",
       "game_id": "2025021168",
       "home_team": "TBL",
       "away_team": "NSH",
@@ -90,22 +90,22 @@
     },
     {
       "date": "2026-03-29",
-      "time": "13:15:05",
+      "time": "13:30:06",
       "game_id": "2025021169",
       "home_team": "CAR",
       "away_team": "MTL",
-      "home_prob": "0.6044",
-      "away_prob": "0.3956",
+      "home_prob": "0.6054",
+      "away_prob": "0.3946",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "0.0074",
-      "away_ev": "-0.0352",
+      "home_ev": "0.0090",
+      "away_ev": "-0.0375",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-03-29",
-      "time": "13:15:06",
+      "time": "13:30:06",
       "game_id": "2025021170",
       "home_team": "CBJ",
       "away_team": "BOS",
@@ -120,7 +120,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "13:15:07",
+      "time": "13:30:07",
       "game_id": "2025021171",
       "home_team": "NJD",
       "away_team": "CHI",
@@ -135,7 +135,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "13:15:07",
+      "time": "13:30:07",
       "game_id": "2025021172",
       "home_team": "PHI",
       "away_team": "DAL",
