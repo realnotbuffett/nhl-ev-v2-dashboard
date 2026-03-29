@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T23:00:06.245948+00:00",
+  "last_updated": "2026-03-29T23:15:03.830953+00:00",
   "scoreboard": [
     {
       "game_id": 2025021167,
@@ -16,8 +16,8 @@
       "game_id": 2025021168,
       "away": "NSH",
       "home": "TBL",
-      "away_score": 1,
-      "home_score": 1,
+      "away_score": 2,
+      "home_score": 3,
       "state": "LIVE",
       "period": 3,
       "period_type": "REG",
@@ -38,10 +38,10 @@
       "game_id": 2025021170,
       "away": "BOS",
       "home": "CBJ",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 3,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-29T21:00:00Z"
     },
@@ -49,9 +49,9 @@
       "game_id": 2025021171,
       "away": "CHI",
       "home": "NJD",
-      "away_score": null,
-      "home_score": null,
-      "state": "PRE",
+      "away_score": 1,
+      "home_score": 0,
+      "state": "LIVE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-03-29T23:00:00Z"
@@ -60,9 +60,9 @@
       "game_id": 2025021172,
       "away": "DAL",
       "home": "PHI",
-      "away_score": null,
-      "home_score": null,
-      "state": "PRE",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "LIVE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-03-29T23:00:00Z"
@@ -72,38 +72,7 @@
   "mode": "LIVE",
   "bot_version": "v2 (Pinnacle)",
   "bets": [],
-  "today_games": [
-    {
-      "date": "2026-03-29",
-      "time": "17:00:05",
-      "game_id": "2025021171",
-      "home_team": "NJD",
-      "away_team": "CHI",
-      "home_prob": "0.6010",
-      "away_prob": "0.3990",
-      "poly_home_price": "0.6100",
-      "poly_away_price": "0.4000",
-      "home_ev": "-0.0148",
-      "away_ev": "-0.0025",
-      "bet_placed": "NO",
-      "bet_side": ""
-    },
-    {
-      "date": "2026-03-29",
-      "time": "17:00:06",
-      "game_id": "2025021172",
-      "home_team": "PHI",
-      "away_team": "DAL",
-      "home_prob": "0.3826",
-      "away_prob": "0.6174",
-      "poly_home_price": "0.3900",
-      "poly_away_price": "0.6200",
-      "home_ev": "-0.0191",
-      "away_ev": "-0.0041",
-      "bet_placed": "NO",
-      "bet_side": ""
-    }
-  ],
+  "today_games": [],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 0
