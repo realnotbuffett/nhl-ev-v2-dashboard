@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T17:00:08.536190+00:00",
+  "last_updated": "2026-03-29T17:03:58.326826+00:00",
   "scoreboard": [
     {
       "game_id": 2025021167,
@@ -69,13 +69,13 @@
     }
   ],
   "today": "2026-03-29",
-  "mode": "DRY RUN",
+  "mode": "LIVE",
   "bot_version": "v2 (Pinnacle)",
   "bets": [],
   "today_games": [
     {
       "date": "2026-03-29",
-      "time": "11:00:05",
+      "time": "11:03:55",
       "game_id": "2025021167",
       "home_team": "NYR",
       "away_team": "FLA",
@@ -90,7 +90,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "11:00:06",
+      "time": "11:03:55",
       "game_id": "2025021168",
       "home_team": "TBL",
       "away_team": "NSH",
@@ -105,7 +105,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "11:00:06",
+      "time": "11:03:56",
       "game_id": "2025021169",
       "home_team": "CAR",
       "away_team": "MTL",
@@ -120,7 +120,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "11:00:07",
+      "time": "11:03:57",
       "game_id": "2025021170",
       "home_team": "CBJ",
       "away_team": "BOS",
@@ -135,7 +135,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "11:00:07",
+      "time": "11:03:57",
       "game_id": "2025021171",
       "home_team": "NJD",
       "away_team": "CHI",
@@ -150,7 +150,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "11:00:08",
+      "time": "11:03:58",
       "game_id": "2025021172",
       "home_team": "PHI",
       "away_team": "DAL",
