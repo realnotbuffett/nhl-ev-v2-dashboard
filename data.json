@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T21:15:05.767822+00:00",
+  "last_updated": "2026-03-29T21:30:05.751247+00:00",
   "scoreboard": [
     {
       "game_id": 2025021167,
@@ -28,7 +28,7 @@
       "away": "MTL",
       "home": "CAR",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -39,7 +39,7 @@
       "away": "BOS",
       "home": "CBJ",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 2,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -75,7 +75,7 @@
   "today_games": [
     {
       "date": "2026-03-29",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "2025021171",
       "home_team": "NJD",
       "away_team": "CHI",
@@ -90,7 +90,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "2025021172",
       "home_team": "PHI",
       "away_team": "DAL",
