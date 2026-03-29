@@ -307,11 +307,13 @@ function render(d) {
     h += '<div class="empty-state" style="width:100%"><p>No games scheduled today</p></div>';
   } else {
     for (const g of sb) {
-      const isLive = g.state !== 'UPCOMING' && g.state !== 'FINAL';
-      const isFinal = g.state === 'FINAL';
+      const stateMap = {'FUT':'Upcoming','PRE':'Upcoming','LIVE':'Live','CRIT':'Live','OFF':'Final','FINAL':'Final','UPCOMING':'Upcoming'};
+      const displayState = stateMap[g.state] || g.state;
+      const isLive = displayState === 'Live';
+      const isFinal = displayState === 'Final';
       const stateClass = isFinal ? 'final' : isLive ? 'live' : 'upcoming';
       let timeStr = '';
-      if (g.state === 'UPCOMING' && g.start_time) {
+      if (displayState === 'Upcoming' && g.start_time) {
         timeStr = new Date(g.start_time).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
       }
       const awayScore = g.away_score !== null && g.away_score !== undefined ? g.away_score : '';
@@ -323,7 +325,7 @@ function render(d) {
 
       h += `
         <div class="sb-card${hasBet ? ' sb-bet' : ''}">
-          <div class="sb-state ${stateClass}">${g.state}</div>
+          <div class="sb-state ${stateClass}">${displayState}</div>
           <div class="sb-teams">
             <div class="sb-team-row">
               <span class="sb-team">${g.away}${awayBet}</span>
