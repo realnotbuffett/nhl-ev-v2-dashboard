@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T01:00:04.301029+00:00",
+  "last_updated": "2026-03-30T01:15:06.263872+00:00",
   "scoreboard": [
     {
       "game_id": 2025021167,
@@ -49,7 +49,7 @@
       "game_id": 2025021171,
       "away": "CHI",
       "home": "NJD",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
       "state": "LIVE",
       "period": 3,
