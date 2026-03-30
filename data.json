@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T19:30:08.158292+00:00",
+  "last_updated": "2026-03-30T19:45:07.974344+00:00",
   "scoreboard": [
     {
       "game_id": 2025021173,
@@ -64,7 +64,7 @@
   "today_games": [
     {
       "date": "2026-03-30",
-      "time": "13:30:05",
+      "time": "13:45:05",
       "game_id": "2025021173",
       "home_team": "NYI",
       "away_team": "PIT",
@@ -79,7 +79,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "13:30:06",
+      "time": "13:45:06",
       "game_id": "2025021174",
       "home_team": "COL",
       "away_team": "CGY",
@@ -94,22 +94,22 @@
     },
     {
       "date": "2026-03-30",
-      "time": "13:30:06",
+      "time": "13:45:06",
       "game_id": "2025021175",
       "home_team": "VGK",
       "away_team": "VAN",
-      "home_prob": "0.7543",
-      "away_prob": "0.2457",
+      "home_prob": "0.7481",
+      "away_prob": "0.2519",
       "poly_home_price": "0.7500",
       "poly_away_price": "0.2600",
-      "home_ev": "0.0057",
-      "away_ev": "-0.0549",
+      "home_ev": "-0.0026",
+      "away_ev": "-0.0310",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-03-30",
-      "time": "13:30:07",
+      "time": "13:45:07",
       "game_id": "2025021176",
       "home_team": "ANA",
       "away_team": "TOR",
@@ -124,7 +124,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "13:30:08",
+      "time": "13:45:07",
       "game_id": "2025021177",
       "home_team": "SJS",
       "away_team": "STL",
