@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T00:15:03.846569+00:00",
+  "last_updated": "2026-03-30T00:30:05.186506+00:00",
   "scoreboard": [
     {
       "game_id": 2025021167,
@@ -61,7 +61,7 @@
       "away": "DAL",
       "home": "PHI",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
