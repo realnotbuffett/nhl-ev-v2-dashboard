@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T00:30:05.186506+00:00",
+  "last_updated": "2026-03-30T00:45:04.330303+00:00",
   "scoreboard": [
     {
       "game_id": 2025021167,
@@ -40,7 +40,7 @@
       "home": "CBJ",
       "away_score": 4,
       "home_score": 3,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 5,
       "period_type": "SO",
       "start_time": "2026-03-29T21:00:00Z"
@@ -50,7 +50,7 @@
       "away": "CHI",
       "home": "NJD",
       "away_score": 2,
-      "home_score": 1,
+      "home_score": 2,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
@@ -60,7 +60,7 @@
       "game_id": 2025021172,
       "away": "DAL",
       "home": "PHI",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
       "state": "LIVE",
       "period": 2,
