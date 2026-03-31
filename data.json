@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T02:30:04.494646+00:00",
+  "last_updated": "2026-03-31T02:45:04.047873+00:00",
   "scoreboard": [
     {
       "game_id": 2025021173,
@@ -17,9 +17,9 @@
       "away": "CGY",
       "home": "COL",
       "away_score": 1,
-      "home_score": 6,
+      "home_score": 7,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-31T00:30:00Z"
     },
@@ -27,7 +27,7 @@
       "game_id": 2025021175,
       "away": "VAN",
       "home": "VGK",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
@@ -38,7 +38,7 @@
       "game_id": 2025021176,
       "away": "TOR",
       "home": "ANA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 2,
       "state": "LIVE",
       "period": 1,
@@ -49,8 +49,8 @@
       "game_id": 2025021177,
       "away": "STL",
       "home": "SJS",
-      "away_score": 1,
-      "home_score": 1,
+      "away_score": 2,
+      "home_score": 3,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
