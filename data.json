@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T02:15:04.821769+00:00",
+  "last_updated": "2026-03-31T02:30:04.494646+00:00",
   "scoreboard": [
     {
       "game_id": 2025021173,
@@ -7,7 +7,7 @@
       "home": "NYI",
       "away_score": 8,
       "home_score": 3,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-30T23:00:00Z"
@@ -39,7 +39,7 @@
       "away": "TOR",
       "home": "ANA",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 2,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -50,7 +50,7 @@
       "away": "STL",
       "home": "SJS",
       "away_score": 1,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
