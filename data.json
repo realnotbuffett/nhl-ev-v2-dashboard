@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T02:30:04.659939+00:00",
+  "last_updated": "2026-04-01T02:45:06.039827+00:00",
   "scoreboard": [
     {
       "game_id": 2025021178,
@@ -18,7 +18,7 @@
       "home": "BUF",
       "away_score": 3,
       "home_score": 4,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-31T23:00:00Z"
@@ -51,7 +51,7 @@
       "home": "NYR",
       "away_score": 1,
       "home_score": 4,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-31T23:00:00Z"
@@ -73,7 +73,7 @@
       "home": "WSH",
       "away_score": 4,
       "home_score": 6,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-31T23:00:00Z"
