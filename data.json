@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T02:15:04.691795+00:00",
+  "last_updated": "2026-04-01T02:30:04.659939+00:00",
   "scoreboard": [
     {
       "game_id": 2025021178,
@@ -40,7 +40,7 @@
       "home": "FLA",
       "away_score": 3,
       "home_score": 6,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-03-31T23:00:00Z"
@@ -96,7 +96,7 @@
       "away_score": 3,
       "home_score": 2,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-01T00:30:00Z"
     },
