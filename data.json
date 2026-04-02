@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-02T00:30:06.606181+00:00",
+  "last_updated": "2026-04-02T00:45:05.950806+00:00",
   "scoreboard": [
     {
       "game_id": 2025021188,
       "away": "VAN",
       "home": "COL",
-      "away_score": null,
-      "home_score": null,
-      "state": "PRE",
+      "away_score": 1,
+      "home_score": 0,
+      "state": "LIVE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-02T00:30:00Z"
@@ -42,22 +42,7 @@
   "today_games": [
     {
       "date": "2026-04-01",
-      "time": "18:30:05",
-      "game_id": "2025021188",
-      "home_team": "COL",
-      "away_team": "VAN",
-      "home_prob": "0.7963",
-      "away_prob": "0.2037",
-      "poly_home_price": "0.8000",
-      "poly_away_price": "0.2100",
-      "home_ev": "-0.0046",
-      "away_ev": "-0.0301",
-      "bet_placed": "NO",
-      "bet_side": ""
-    },
-    {
-      "date": "2026-04-01",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "2025021189",
       "home_team": "LAK",
       "away_team": "STL",
@@ -72,16 +57,16 @@
     },
     {
       "date": "2026-04-01",
-      "time": "18:30:06",
+      "time": "18:45:05",
       "game_id": "2025021190",
       "home_team": "SJS",
       "away_team": "ANA",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5051",
+      "away_prob": "0.4949",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0045",
-      "away_ev": "-0.0154",
+      "home_ev": "-0.0096",
+      "away_ev": "-0.0103",
       "bet_placed": "NO",
       "bet_side": ""
     }
