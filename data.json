@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-02T01:00:05.993572+00:00",
+  "last_updated": "2026-04-02T01:15:04.241601+00:00",
   "scoreboard": [
     {
       "game_id": 2025021188,
       "away": "VAN",
       "home": "COL",
-      "away_score": 2,
-      "home_score": 1,
+      "away_score": 3,
+      "home_score": 2,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -16,9 +16,9 @@
       "game_id": 2025021189,
       "away": "STL",
       "home": "LAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "PRE",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "LIVE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-02T01:00:00Z"
@@ -27,9 +27,9 @@
       "game_id": 2025021190,
       "away": "ANA",
       "home": "SJS",
-      "away_score": null,
-      "home_score": null,
-      "state": "PRE",
+      "away_score": 0,
+      "home_score": 1,
+      "state": "LIVE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-02T01:00:00Z"
@@ -39,38 +39,7 @@
   "mode": "LIVE",
   "bot_version": "v2 (Pinnacle)",
   "bets": [],
-  "today_games": [
-    {
-      "date": "2026-04-01",
-      "time": "19:00:05",
-      "game_id": "2025021189",
-      "home_team": "LAK",
-      "away_team": "STL",
-      "home_prob": "0.5631",
-      "away_prob": "0.4369",
-      "poly_home_price": "0.5700",
-      "poly_away_price": "0.4400",
-      "home_ev": "-0.0121",
-      "away_ev": "-0.0071",
-      "bet_placed": "NO",
-      "bet_side": ""
-    },
-    {
-      "date": "2026-04-01",
-      "time": "19:00:05",
-      "game_id": "2025021190",
-      "home_team": "SJS",
-      "away_team": "ANA",
-      "home_prob": "0.5051",
-      "away_prob": "0.4949",
-      "poly_home_price": "0.5100",
-      "poly_away_price": "0.5000",
-      "home_ev": "-0.0096",
-      "away_ev": "-0.0103",
-      "bet_placed": "NO",
-      "bet_side": ""
-    }
-  ],
+  "today_games": [],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 0
