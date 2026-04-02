@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T23:45:06.728681+00:00",
+  "last_updated": "2026-04-02T00:15:06.685416+00:00",
   "scoreboard": [
     {
       "game_id": 2025021188,
@@ -7,7 +7,7 @@
       "home": "COL",
       "away_score": null,
       "home_score": null,
-      "state": "FUT",
+      "state": "PRE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-02T00:30:00Z"
@@ -42,46 +42,46 @@
   "today_games": [
     {
       "date": "2026-04-01",
-      "time": "17:45:05",
+      "time": "18:15:05",
       "game_id": "2025021188",
       "home_team": "COL",
       "away_team": "VAN",
-      "home_prob": "0.7960",
-      "away_prob": "0.2040",
+      "home_prob": "0.7963",
+      "away_prob": "0.2037",
       "poly_home_price": "0.8000",
       "poly_away_price": "0.2100",
-      "home_ev": "-0.0050",
-      "away_ev": "-0.0285",
+      "home_ev": "-0.0046",
+      "away_ev": "-0.0301",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-01",
-      "time": "17:45:06",
+      "time": "18:15:06",
       "game_id": "2025021189",
       "home_team": "LAK",
       "away_team": "STL",
       "home_prob": "0.5668",
       "away_prob": "0.4332",
-      "poly_home_price": "0.5800",
-      "poly_away_price": "0.4300",
-      "home_ev": "-0.0228",
-      "away_ev": "0.0076",
+      "poly_home_price": "0.5700",
+      "poly_away_price": "0.4400",
+      "home_ev": "-0.0057",
+      "away_ev": "-0.0153",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-01",
-      "time": "17:45:06",
+      "time": "18:15:06",
       "game_id": "2025021190",
       "home_team": "SJS",
       "away_team": "ANA",
-      "home_prob": "0.5051",
-      "away_prob": "0.4949",
+      "home_prob": "0.5077",
+      "away_prob": "0.4923",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0286",
-      "away_ev": "0.0099",
+      "home_ev": "-0.0237",
+      "away_ev": "0.0047",
       "bet_placed": "NO",
       "bet_side": ""
     }
