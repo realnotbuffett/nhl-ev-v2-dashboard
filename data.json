@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T22:00:06.126022+00:00",
+  "last_updated": "2026-04-03T22:15:06.362323+00:00",
   "scoreboard": [
     {
       "game_id": 2025021205,
@@ -31,22 +31,22 @@
   "today_games": [
     {
       "date": "2026-04-03",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "2025021205",
       "home_team": "NYI",
       "away_team": "PHI",
-      "home_prob": "0.5810",
-      "away_prob": "0.4190",
+      "home_prob": "0.5800",
+      "away_prob": "0.4200",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0152",
-      "away_ev": "-0.0025",
+      "home_ev": "-0.0169",
+      "away_ev": "0.0000",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-03",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "2025021206",
       "home_team": "ANA",
       "away_team": "STL",
