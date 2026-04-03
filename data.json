@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T18:45:05.807625+00:00",
+  "last_updated": "2026-04-03T19:00:05.987840+00:00",
   "scoreboard": [
     {
       "game_id": 2025021205,
@@ -31,7 +31,7 @@
   "today_games": [
     {
       "date": "2026-04-03",
-      "time": "12:45:05",
+      "time": "13:00:05",
       "game_id": "2025021205",
       "home_team": "NYI",
       "away_team": "PHI",
@@ -46,7 +46,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "12:45:05",
+      "time": "13:00:05",
       "game_id": "2025021206",
       "home_team": "ANA",
       "away_team": "STL",
