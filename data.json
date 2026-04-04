@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T01:30:05.766072+00:00",
+  "last_updated": "2026-04-04T01:45:05.397306+00:00",
   "scoreboard": [
     {
       "game_id": 2025021205,
@@ -7,7 +7,7 @@
       "home": "NYI",
       "away_score": 4,
       "home_score": 1,
-      "state": "CRIT",
+      "state": "FINAL",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-03T23:00:00Z"
@@ -31,16 +31,16 @@
   "today_games": [
     {
       "date": "2026-04-03",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "2025021206",
       "home_team": "ANA",
       "away_team": "STL",
-      "home_prob": "0.5533",
-      "away_prob": "0.4467",
+      "home_prob": "0.5482",
+      "away_prob": "0.4518",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0120",
-      "away_ev": "-0.0073",
+      "home_ev": "-0.0210",
+      "away_ev": "0.0039",
       "bet_placed": "NO",
       "bet_side": ""
     }
