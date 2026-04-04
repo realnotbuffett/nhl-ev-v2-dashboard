@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-04T00:30:05.783057+00:00",
+  "last_updated": "2026-04-04T00:45:05.317744+00:00",
   "scoreboard": [
     {
       "game_id": 2025021205,
       "away": "PHI",
       "home": "NYI",
       "away_score": 3,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
@@ -31,7 +31,7 @@
   "today_games": [
     {
       "date": "2026-04-03",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "2025021206",
       "home_team": "ANA",
       "away_team": "STL",
