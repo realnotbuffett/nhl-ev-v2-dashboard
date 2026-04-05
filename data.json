@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-05T18:15:08.343990+00:00",
+  "last_updated": "2026-04-05T18:30:08.356786+00:00",
   "scoreboard": [
     {
       "game_id": 2025021222,
       "away": "MIN",
       "home": "DET",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 1,
       "state": "LIVE",
       "period": 2,
@@ -18,7 +18,7 @@
       "home": "PIT",
       "away_score": null,
       "home_score": null,
-      "state": "FUT",
+      "state": "PRE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-05T19:00:00Z"
@@ -86,7 +86,7 @@
   "today_games": [
     {
       "date": "2026-04-05",
-      "time": "12:15:05",
+      "time": "12:30:05",
       "game_id": "2025021223",
       "home_team": "PIT",
       "away_team": "FLA",
@@ -101,7 +101,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "12:15:05",
+      "time": "12:30:05",
       "game_id": "2025021224",
       "home_team": "PHI",
       "away_team": "BOS",
@@ -116,7 +116,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "12:15:06",
+      "time": "12:30:06",
       "game_id": "2025021225",
       "home_team": "OTT",
       "away_team": "CAR",
@@ -131,7 +131,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "12:15:07",
+      "time": "12:30:07",
       "game_id": "2025021226",
       "home_team": "MTL",
       "away_team": "NJD",
@@ -146,7 +146,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "12:15:07",
+      "time": "12:30:07",
       "game_id": "2025021227",
       "home_team": "NYR",
       "away_team": "WSH",
@@ -161,16 +161,16 @@
     },
     {
       "date": "2026-04-05",
-      "time": "12:15:08",
+      "time": "12:30:08",
       "game_id": "2025021228",
       "home_team": "COL",
       "away_team": "STL",
-      "home_prob": "0.6559",
-      "away_prob": "0.3441",
+      "home_prob": "0.6590",
+      "away_prob": "0.3410",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0168",
+      "home_ev": "-0.0015",
+      "away_ev": "-0.0257",
       "bet_placed": "NO",
       "bet_side": ""
     }
