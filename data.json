@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T23:15:05.562315+00:00",
+  "last_updated": "2026-04-05T23:30:06.102907+00:00",
   "scoreboard": [
     {
       "game_id": 2025021222,
@@ -39,7 +39,7 @@
       "away": "CAR",
       "home": "OTT",
       "away_score": 2,
-      "home_score": 4,
+      "home_score": 5,
       "state": "LIVE",
       "period": 3,
       "period_type": "REG",
@@ -49,7 +49,7 @@
       "game_id": 2025021226,
       "away": "NJD",
       "home": "MTL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
@@ -86,7 +86,7 @@
   "today_games": [
     {
       "date": "2026-04-05",
-      "time": "17:15:05",
+      "time": "17:30:06",
       "game_id": "2025021228",
       "home_team": "COL",
       "away_team": "STL",
