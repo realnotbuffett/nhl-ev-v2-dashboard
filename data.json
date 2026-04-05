@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-04-05T17:45:09.712904+00:00",
+  "last_updated": "2026-04-05T18:15:08.343990+00:00",
   "scoreboard": [
     {
       "game_id": 2025021222,
       "away": "MIN",
       "home": "DET",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 1,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-05T17:00:00Z"
     },
@@ -86,37 +86,37 @@
   "today_games": [
     {
       "date": "2026-04-05",
-      "time": "11:45:06",
+      "time": "12:15:05",
       "game_id": "2025021223",
       "home_team": "PIT",
       "away_team": "FLA",
-      "home_prob": "0.6757",
-      "away_prob": "0.3243",
+      "home_prob": "0.6621",
+      "away_prob": "0.3379",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0172",
+      "home_ev": "-0.0264",
+      "away_ev": "0.0240",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-05",
-      "time": "11:45:07",
+      "time": "12:15:05",
       "game_id": "2025021224",
       "home_team": "PHI",
       "away_team": "BOS",
-      "home_prob": "0.5800",
-      "away_prob": "0.4200",
+      "home_prob": "0.5916",
+      "away_prob": "0.4084",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0169",
-      "away_ev": "0.0000",
+      "home_ev": "0.0027",
+      "away_ev": "-0.0276",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-05",
-      "time": "11:45:07",
+      "time": "12:15:06",
       "game_id": "2025021225",
       "home_team": "OTT",
       "away_team": "CAR",
@@ -131,7 +131,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "11:45:08",
+      "time": "12:15:07",
       "game_id": "2025021226",
       "home_team": "MTL",
       "away_team": "NJD",
@@ -146,7 +146,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "11:45:09",
+      "time": "12:15:07",
       "game_id": "2025021227",
       "home_team": "NYR",
       "away_team": "WSH",
@@ -161,7 +161,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "11:45:09",
+      "time": "12:15:08",
       "game_id": "2025021228",
       "home_team": "COL",
       "away_team": "STL",
