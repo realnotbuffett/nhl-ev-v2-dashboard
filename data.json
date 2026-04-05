@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T02:30:04.950089+00:00",
+  "last_updated": "2026-04-05T02:45:04.100390+00:00",
   "scoreboard": [
     {
       "game_id": 2025021207,
@@ -62,7 +62,7 @@
       "home": "NJD",
       "away_score": 4,
       "home_score": 3,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 5,
       "period_type": "SO",
       "start_time": "2026-04-04T23:00:00Z"
@@ -106,7 +106,7 @@
       "home": "VAN",
       "away_score": 7,
       "home_score": 4,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-04T23:00:00Z"
@@ -117,7 +117,7 @@
       "home": "LAK",
       "away_score": 6,
       "home_score": 7,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 4,
       "period_type": "OT",
       "start_time": "2026-04-04T23:00:00Z"
@@ -126,7 +126,7 @@
       "game_id": 2025021218,
       "away": "VGK",
       "home": "EDM",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
@@ -137,8 +137,8 @@
       "game_id": 2025021219,
       "away": "CGY",
       "home": "ANA",
-      "away_score": 0,
-      "home_score": 0,
+      "away_score": 1,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -148,7 +148,7 @@
       "game_id": 2025021220,
       "away": "NSH",
       "home": "SJS",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
