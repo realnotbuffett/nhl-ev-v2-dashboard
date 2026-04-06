@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T23:45:05.123784+00:00",
+  "last_updated": "2026-04-06T00:00:06.151913+00:00",
   "scoreboard": [
     {
       "game_id": 2025021222,
@@ -52,7 +52,7 @@
       "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-05T23:00:00Z"
     },
@@ -86,16 +86,16 @@
   "today_games": [
     {
       "date": "2026-04-05",
-      "time": "17:45:05",
+      "time": "18:00:06",
       "game_id": "2025021228",
       "home_team": "COL",
       "away_team": "STL",
       "home_prob": "0.6407",
       "away_prob": "0.3593",
-      "poly_home_price": "0.6400",
-      "poly_away_price": "0.3700",
-      "home_ev": "0.0010",
-      "away_ev": "-0.0288",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "0.0169",
+      "away_ev": "-0.0544",
       "bet_placed": "NO",
       "bet_side": ""
     }
