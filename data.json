@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T20:30:07.394502+00:00",
+  "last_updated": "2026-04-06T20:45:07.299570+00:00",
   "scoreboard": [
     {
       "game_id": 2025021229,
@@ -53,7 +53,7 @@
   "today_games": [
     {
       "date": "2026-04-06",
-      "time": "14:30:05",
+      "time": "14:45:05",
       "game_id": "2025021229",
       "home_team": "BUF",
       "away_team": "TBL",
@@ -68,7 +68,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "14:30:06",
+      "time": "14:45:06",
       "game_id": "2025021230",
       "home_team": "WPG",
       "away_team": "SEA",
@@ -83,7 +83,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "14:30:06",
+      "time": "14:45:06",
       "game_id": "2025021231",
       "home_team": "SJS",
       "away_team": "CHI",
@@ -98,16 +98,16 @@
     },
     {
       "date": "2026-04-06",
-      "time": "14:30:07",
+      "time": "14:45:07",
       "game_id": "2025021232",
       "home_team": "LAK",
       "away_team": "NSH",
       "home_prob": "0.5581",
       "away_prob": "0.4419",
-      "poly_home_price": "0.5700",
-      "poly_away_price": "0.4400",
-      "home_ev": "-0.0209",
-      "away_ev": "0.0044",
+      "poly_home_price": "0.5600",
+      "poly_away_price": "0.4500",
+      "home_ev": "-0.0034",
+      "away_ev": "-0.0180",
       "bet_placed": "NO",
       "bet_side": ""
     }
