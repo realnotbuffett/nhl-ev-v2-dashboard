@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T00:00:06.151913+00:00",
+  "last_updated": "2026-04-06T00:15:05.118433+00:00",
   "scoreboard": [
     {
       "game_id": 2025021222,
@@ -40,7 +40,7 @@
       "home": "OTT",
       "away_score": 3,
       "home_score": 6,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-05T21:00:00Z"
@@ -61,9 +61,9 @@
       "away": "WSH",
       "home": "NYR",
       "away_score": 1,
-      "home_score": 1,
+      "home_score": 3,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-05T23:00:00Z"
     },
@@ -86,16 +86,16 @@
   "today_games": [
     {
       "date": "2026-04-05",
-      "time": "18:00:06",
+      "time": "18:15:05",
       "game_id": "2025021228",
       "home_team": "COL",
       "away_team": "STL",
-      "home_prob": "0.6407",
-      "away_prob": "0.3593",
+      "home_prob": "0.6374",
+      "away_prob": "0.3626",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "0.0169",
-      "away_ev": "-0.0544",
+      "home_ev": "0.0118",
+      "away_ev": "-0.0459",
       "bet_placed": "NO",
       "bet_side": ""
     }
