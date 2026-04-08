@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T02:15:04.111795+00:00",
+  "last_updated": "2026-04-08T02:30:04.197004+00:00",
   "scoreboard": [
     {
       "game_id": 2025021233,
@@ -18,7 +18,7 @@
       "home": "OTT",
       "away_score": 2,
       "home_score": 6,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-07T23:00:00Z"
@@ -62,7 +62,7 @@
       "home": "STL",
       "away_score": 3,
       "home_score": 1,
-      "state": "LIVE",
+      "state": "CRIT",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-08T00:00:00Z"
@@ -73,7 +73,7 @@
       "home": "DAL",
       "away_score": 3,
       "home_score": 3,
-      "state": "LIVE",
+      "state": "CRIT",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-08T00:00:00Z"
