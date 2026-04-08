@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T22:00:07.683442+00:00",
+  "last_updated": "2026-04-08T22:15:07.095405+00:00",
   "scoreboard": [
     {
       "game_id": 2025021244,
@@ -42,7 +42,7 @@
   "today_games": [
     {
       "date": "2026-04-08",
-      "time": "16:00:06",
+      "time": "16:15:05",
       "game_id": "2025021244",
       "home_team": "NYR",
       "away_team": "BUF",
@@ -57,22 +57,22 @@
     },
     {
       "date": "2026-04-08",
-      "time": "16:00:07",
+      "time": "16:15:06",
       "game_id": "2025021245",
       "home_team": "TOR",
       "away_team": "WSH",
-      "home_prob": "0.4190",
-      "away_prob": "0.5810",
+      "home_prob": "0.4129",
+      "away_prob": "0.5871",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0025",
-      "away_ev": "-0.0152",
+      "home_ev": "-0.0168",
+      "away_ev": "-0.0050",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-08",
-      "time": "16:00:07",
+      "time": "16:15:07",
       "game_id": "2025021246",
       "home_team": "SJS",
       "away_team": "EDM",
