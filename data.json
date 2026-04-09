@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T23:15:09.828668+00:00",
+  "last_updated": "2026-04-09T23:30:09.805436+00:00",
   "scoreboard": [
     {
       "game_id": 2025021252,
@@ -39,7 +39,7 @@
       "away": "FLA",
       "home": "OTT",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -50,7 +50,7 @@
       "away": "PHI",
       "home": "DET",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -60,7 +60,7 @@
       "game_id": 2025021251,
       "away": "PIT",
       "home": "NJD",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
@@ -73,7 +73,7 @@
       "home": "STL",
       "away_score": null,
       "home_score": null,
-      "state": "FUT",
+      "state": "PRE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-10T00:00:00Z"
@@ -179,7 +179,7 @@
   "today_games": [
     {
       "date": "2026-04-09",
-      "time": "17:15:05",
+      "time": "17:30:05",
       "game_id": "2025021253",
       "home_team": "STL",
       "away_team": "WPG",
@@ -194,7 +194,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "17:15:06",
+      "time": "17:30:05",
       "game_id": "2025021255",
       "home_team": "CHI",
       "away_team": "CAR",
@@ -209,7 +209,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "17:15:06",
+      "time": "17:30:06",
       "game_id": "2025021254",
       "home_team": "DAL",
       "away_team": "MIN",
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "17:15:07",
+      "time": "17:30:07",
       "game_id": "2025021256",
       "home_team": "COL",
       "away_team": "CGY",
@@ -239,7 +239,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "17:15:07",
+      "time": "17:30:07",
       "game_id": "2025021257",
       "home_team": "UTA",
       "away_team": "NSH",
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "17:15:08",
+      "time": "17:30:08",
       "game_id": "2025021258",
       "home_team": "ANA",
       "away_team": "SJS",
@@ -269,7 +269,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "17:15:09",
+      "time": "17:30:09",
       "game_id": "2025021259",
       "home_team": "SEA",
       "away_team": "VGK",
@@ -284,7 +284,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "17:15:09",
+      "time": "17:30:09",
       "game_id": "2025021260",
       "home_team": "LAK",
       "away_team": "VAN",
