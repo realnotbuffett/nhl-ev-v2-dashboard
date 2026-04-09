@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T00:45:05.180964+00:00",
+  "last_updated": "2026-04-09T01:00:17.729302+00:00",
   "scoreboard": [
     {
       "game_id": 2025021244,
@@ -16,7 +16,7 @@
       "game_id": 2025021245,
       "away": "WSH",
       "home": "TOR",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
       "state": "LIVE",
       "period": 2,
@@ -42,16 +42,16 @@
   "today_games": [
     {
       "date": "2026-04-08",
-      "time": "18:45:05",
+      "time": "19:00:17",
       "game_id": "2025021246",
       "home_team": "SJS",
       "away_team": "EDM",
-      "home_prob": "0.4936",
-      "away_prob": "0.5064",
+      "home_prob": "0.4910",
+      "away_prob": "0.5090",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0321",
-      "away_ev": "0.0128",
+      "home_ev": "-0.0372",
+      "away_ev": "0.0179",
       "bet_placed": "NO",
       "bet_side": ""
     }
