@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T02:30:04.188497+00:00",
+  "last_updated": "2026-04-09T02:45:04.166961+00:00",
   "scoreboard": [
     {
       "game_id": 2025021244,
@@ -18,7 +18,7 @@
       "home": "TOR",
       "away_score": 4,
       "home_score": 0,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-08T23:30:00Z"
@@ -27,7 +27,7 @@
       "game_id": 2025021246,
       "away": "EDM",
       "home": "SJS",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
       "state": "LIVE",
       "period": 1,
