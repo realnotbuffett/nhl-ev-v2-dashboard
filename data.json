@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-09T00:30:05.767494+00:00",
+  "last_updated": "2026-04-09T00:45:05.180964+00:00",
   "scoreboard": [
     {
       "game_id": 2025021244,
       "away": "BUF",
       "home": "NYR",
       "away_score": 2,
-      "home_score": 2,
+      "home_score": 3,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
@@ -16,10 +16,10 @@
       "game_id": 2025021245,
       "away": "WSH",
       "home": "TOR",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-08T23:30:00Z"
     },
@@ -42,7 +42,7 @@
   "today_games": [
     {
       "date": "2026-04-08",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "2025021246",
       "home_team": "SJS",
       "away_team": "EDM",
