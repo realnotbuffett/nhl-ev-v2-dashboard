@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T02:00:06.080267+00:00",
+  "last_updated": "2026-04-09T02:15:04.864730+00:00",
   "scoreboard": [
     {
       "game_id": 2025021244,
@@ -16,9 +16,9 @@
       "game_id": 2025021245,
       "away": "WSH",
       "home": "TOR",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 0,
-      "state": "LIVE",
+      "state": "FINAL",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-08T23:30:00Z"
@@ -27,9 +27,9 @@
       "game_id": 2025021246,
       "away": "EDM",
       "home": "SJS",
-      "away_score": null,
-      "home_score": null,
-      "state": "PRE",
+      "away_score": 0,
+      "home_score": 1,
+      "state": "LIVE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-09T02:00:00Z"
@@ -39,23 +39,7 @@
   "mode": "LIVE",
   "bot_version": "v2 (Pinnacle)",
   "bets": [],
-  "today_games": [
-    {
-      "date": "2026-04-08",
-      "time": "20:00:06",
-      "game_id": "2025021246",
-      "home_team": "SJS",
-      "away_team": "EDM",
-      "home_prob": "0.5000",
-      "away_prob": "0.5000",
-      "poly_home_price": "0.5100",
-      "poly_away_price": "0.5000",
-      "home_ev": "-0.0196",
-      "away_ev": "0.0000",
-      "bet_placed": "NO",
-      "bet_side": ""
-    }
-  ],
+  "today_games": [],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 0
