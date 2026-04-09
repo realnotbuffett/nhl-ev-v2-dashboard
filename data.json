@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T01:00:17.729302+00:00",
+  "last_updated": "2026-04-09T01:15:05.431598+00:00",
   "scoreboard": [
     {
       "game_id": 2025021244,
@@ -8,7 +8,7 @@
       "away_score": 2,
       "home_score": 3,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-08T23:00:00Z"
     },
@@ -42,16 +42,16 @@
   "today_games": [
     {
       "date": "2026-04-08",
-      "time": "19:00:17",
+      "time": "19:15:05",
       "game_id": "2025021246",
       "home_team": "SJS",
       "away_team": "EDM",
-      "home_prob": "0.4910",
-      "away_prob": "0.5090",
+      "home_prob": "0.5026",
+      "away_prob": "0.4974",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0372",
-      "away_ev": "0.0179",
+      "home_ev": "-0.0146",
+      "away_ev": "-0.0051",
       "bet_placed": "NO",
       "bet_side": ""
     }
