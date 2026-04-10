@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T02:15:05.378239+00:00",
+  "last_updated": "2026-04-10T02:30:05.608845+00:00",
   "scoreboard": [
     {
       "game_id": 2025021252,
@@ -18,7 +18,7 @@
       "home": "BUF",
       "away_score": 0,
       "home_score": 5,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-09T23:00:00Z"
@@ -72,8 +72,8 @@
       "away": "WPG",
       "home": "STL",
       "away_score": 3,
-      "home_score": 1,
-      "state": "LIVE",
+      "home_score": 2,
+      "state": "FINAL",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-10T00:00:00Z"
@@ -85,7 +85,7 @@
       "away_score": 4,
       "home_score": 1,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-10T00:30:00Z"
     },
@@ -93,8 +93,8 @@
       "game_id": 2025021254,
       "away": "MIN",
       "home": "DAL",
-      "away_score": 2,
-      "home_score": 1,
+      "away_score": 3,
+      "home_score": 2,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
@@ -105,7 +105,7 @@
       "away": "CGY",
       "home": "COL",
       "away_score": 0,
-      "home_score": 1,
+      "home_score": 2,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
@@ -127,7 +127,7 @@
       "away": "SJS",
       "home": "ANA",
       "away_score": 0,
-      "home_score": 1,
+      "home_score": 2,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -137,7 +137,7 @@
       "game_id": 2025021259,
       "away": "VGK",
       "home": "SEA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
@@ -179,16 +179,16 @@
   "today_games": [
     {
       "date": "2026-04-09",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "2025021260",
       "home_team": "LAK",
       "away_team": "VAN",
-      "home_prob": "0.7167",
-      "away_prob": "0.2833",
+      "home_prob": "0.7199",
+      "away_prob": "0.2801",
       "poly_home_price": "0.7200",
       "poly_away_price": "0.2900",
-      "home_ev": "-0.0046",
-      "away_ev": "-0.0230",
+      "home_ev": "-0.0001",
+      "away_ev": "-0.0342",
       "bet_placed": "NO",
       "bet_side": ""
     }
