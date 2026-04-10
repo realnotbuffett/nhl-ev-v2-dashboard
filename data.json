@@ -1,162 +1,7 @@
 {
-  "last_updated": "2026-04-10T02:45:04.260861+00:00",
-  "scoreboard": [
-    {
-      "game_id": 2025021252,
-      "away": "TOR",
-      "home": "NYI",
-      "away_score": 3,
-      "home_score": 5,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-09T22:45:00Z"
-    },
-    {
-      "game_id": 2025021247,
-      "away": "CBJ",
-      "home": "BUF",
-      "away_score": 0,
-      "home_score": 5,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-09T23:00:00Z"
-    },
-    {
-      "game_id": 2025021248,
-      "away": "TBL",
-      "home": "MTL",
-      "away_score": 1,
-      "home_score": 2,
-      "state": "FINAL",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-09T23:00:00Z"
-    },
-    {
-      "game_id": 2025021249,
-      "away": "FLA",
-      "home": "OTT",
-      "away_score": 1,
-      "home_score": 5,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-09T23:00:00Z"
-    },
-    {
-      "game_id": 2025021250,
-      "away": "PHI",
-      "home": "DET",
-      "away_score": 3,
-      "home_score": 6,
-      "state": "FINAL",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-09T23:00:00Z"
-    },
-    {
-      "game_id": 2025021251,
-      "away": "PIT",
-      "home": "NJD",
-      "away_score": 5,
-      "home_score": 2,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-09T23:00:00Z"
-    },
-    {
-      "game_id": 2025021253,
-      "away": "WPG",
-      "home": "STL",
-      "away_score": 3,
-      "home_score": 2,
-      "state": "FINAL",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-10T00:00:00Z"
-    },
-    {
-      "game_id": 2025021255,
-      "away": "CAR",
-      "home": "CHI",
-      "away_score": 6,
-      "home_score": 2,
-      "state": "LIVE",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-10T00:30:00Z"
-    },
-    {
-      "game_id": 2025021254,
-      "away": "MIN",
-      "home": "DAL",
-      "away_score": 3,
-      "home_score": 2,
-      "state": "LIVE",
-      "period": 2,
-      "period_type": "REG",
-      "start_time": "2026-04-10T01:00:00Z"
-    },
-    {
-      "game_id": 2025021256,
-      "away": "CGY",
-      "home": "COL",
-      "away_score": 0,
-      "home_score": 2,
-      "state": "LIVE",
-      "period": 2,
-      "period_type": "REG",
-      "start_time": "2026-04-10T01:00:00Z"
-    },
-    {
-      "game_id": 2025021257,
-      "away": "NSH",
-      "home": "UTA",
-      "away_score": 0,
-      "home_score": 2,
-      "state": "LIVE",
-      "period": 2,
-      "period_type": "REG",
-      "start_time": "2026-04-10T01:00:00Z"
-    },
-    {
-      "game_id": 2025021258,
-      "away": "SJS",
-      "home": "ANA",
-      "away_score": 0,
-      "home_score": 2,
-      "state": "LIVE",
-      "period": 1,
-      "period_type": "REG",
-      "start_time": "2026-04-10T02:00:00Z"
-    },
-    {
-      "game_id": 2025021259,
-      "away": "VGK",
-      "home": "SEA",
-      "away_score": 1,
-      "home_score": 0,
-      "state": "LIVE",
-      "period": 1,
-      "period_type": "REG",
-      "start_time": "2026-04-10T02:00:00Z"
-    },
-    {
-      "game_id": 2025021260,
-      "away": "VAN",
-      "home": "LAK",
-      "away_score": 0,
-      "home_score": 1,
-      "state": "LIVE",
-      "period": 1,
-      "period_type": "REG",
-      "start_time": "2026-04-10T02:30:00Z"
-    }
-  ],
-  "today": "2026-04-09",
+  "last_updated": "2026-04-10T16:00:03.144967+00:00",
+  "scoreboard": [],
+  "today": "2026-04-10",
   "mode": "LIVE",
   "bot_version": "v2 (Pinnacle)",
   "bets": [
@@ -170,15 +15,15 @@
       "polymarket_price": "0.3800",
       "ev_pct": "5.65%",
       "bet_size": "$10.00",
-      "order_status": "pending",
+      "order_status": "filled",
       "filled_size": "",
-      "result": "",
-      "profit": ""
+      "result": "loss",
+      "profit": "-10.00"
     }
   ],
   "today_games": [],
   "stats": {
-    "total_bets_today": 1,
+    "total_bets_today": 0,
     "total_bets_all_time": 1
   }
 }
