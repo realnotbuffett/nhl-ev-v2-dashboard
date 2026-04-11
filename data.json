@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T20:30:11.885351+00:00",
+  "last_updated": "2026-04-11T20:45:11.803156+00:00",
   "scoreboard": [
     {
       "game_id": 2025021261,
@@ -27,8 +27,8 @@
       "game_id": 2025021263,
       "away": "WSH",
       "home": "PIT",
-      "away_score": 3,
-      "home_score": 1,
+      "away_score": 4,
+      "home_score": 2,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
@@ -205,7 +205,7 @@
   "today_games": [
     {
       "date": "2026-04-11",
-      "time": "14:30:05",
+      "time": "14:45:05",
       "game_id": "2025021265",
       "home_team": "DET",
       "away_team": "NJD",
@@ -220,7 +220,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:06",
+      "time": "14:45:06",
       "game_id": "2025021266",
       "home_team": "CHI",
       "away_team": "STL",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:06",
+      "time": "14:45:06",
       "game_id": "2025021267",
       "home_team": "NSH",
       "away_team": "MIN",
@@ -250,37 +250,37 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:07",
+      "time": "14:45:07",
       "game_id": "2025021268",
       "home_team": "DAL",
       "away_team": "NYR",
       "home_prob": "0.6199",
       "away_prob": "0.3801",
-      "poly_home_price": "0.6200",
-      "poly_away_price": "0.3900",
-      "home_ev": "-0.0002",
-      "away_ev": "-0.0253",
+      "poly_home_price": "0.6100",
+      "poly_away_price": "0.4000",
+      "home_ev": "0.0162",
+      "away_ev": "-0.0496",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:08",
+      "time": "14:45:08",
       "game_id": "2025021269",
       "home_team": "UTA",
       "away_team": "CAR",
-      "home_prob": "0.5570",
-      "away_prob": "0.4430",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "0.0127",
-      "away_ev": "-0.0369",
+      "home_prob": "0.5332",
+      "away_prob": "0.4668",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0127",
+      "away_ev": "-0.0067",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:08",
+      "time": "14:45:08",
       "game_id": "2025021270",
       "home_team": "TOR",
       "away_team": "FLA",
@@ -295,7 +295,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:09",
+      "time": "14:45:09",
       "game_id": "2025021271",
       "home_team": "MTL",
       "away_team": "CBJ",
@@ -310,7 +310,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:10",
+      "time": "14:45:09",
       "game_id": "2025021272",
       "home_team": "WPG",
       "away_team": "PHI",
@@ -325,7 +325,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:10",
+      "time": "14:45:10",
       "game_id": "2025021273",
       "home_team": "SEA",
       "away_team": "CGY",
@@ -340,7 +340,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:11",
+      "time": "14:45:11",
       "game_id": "2025021274",
       "home_team": "COL",
       "away_team": "VGK",
@@ -355,7 +355,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "14:30:11",
+      "time": "14:45:11",
       "game_id": "2025021275",
       "home_team": "SJS",
       "away_team": "VAN",
