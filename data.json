@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T17:30:12.931663+00:00",
+  "last_updated": "2026-04-11T17:45:12.773562+00:00",
   "scoreboard": [
     {
       "game_id": 2025021261,
@@ -16,7 +16,7 @@
       "game_id": 2025021262,
       "away": "OTT",
       "home": "NYI",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
@@ -205,22 +205,22 @@
   "today_games": [
     {
       "date": "2026-04-11",
-      "time": "11:30:05",
+      "time": "11:45:05",
       "game_id": "2025021263",
       "home_team": "PIT",
       "away_team": "WSH",
-      "home_prob": "0.4617",
-      "away_prob": "0.5383",
+      "home_prob": "0.4518",
+      "away_prob": "0.5482",
       "poly_home_price": "0.4700",
-      "poly_away_price": "0.5400",
-      "home_ev": "-0.0176",
+      "poly_away_price": "0.5500",
+      "home_ev": "-0.0388",
       "away_ev": "-0.0032",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:05",
+      "time": "11:45:05",
       "game_id": "2025021264",
       "home_team": "LAK",
       "away_team": "EDM",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:06",
+      "time": "11:45:06",
       "game_id": "2025021265",
       "home_team": "DET",
       "away_team": "NJD",
@@ -250,22 +250,22 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:07",
+      "time": "11:45:07",
       "game_id": "2025021266",
       "home_team": "CHI",
       "away_team": "STL",
-      "home_prob": "0.4225",
-      "away_prob": "0.5775",
+      "home_prob": "0.4200",
+      "away_prob": "0.5800",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0174",
-      "away_ev": "-0.0043",
+      "home_ev": "-0.0233",
+      "away_ev": "0.0000",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:07",
+      "time": "11:45:07",
       "game_id": "2025021267",
       "home_team": "NSH",
       "away_team": "MIN",
@@ -280,7 +280,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:08",
+      "time": "11:45:08",
       "game_id": "2025021268",
       "home_team": "DAL",
       "away_team": "NYR",
@@ -295,7 +295,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:09",
+      "time": "11:45:09",
       "game_id": "2025021269",
       "home_team": "UTA",
       "away_team": "CAR",
@@ -310,7 +310,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:09",
+      "time": "11:45:09",
       "game_id": "2025021270",
       "home_team": "TOR",
       "away_team": "FLA",
@@ -325,7 +325,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:10",
+      "time": "11:45:10",
       "game_id": "2025021271",
       "home_team": "MTL",
       "away_team": "CBJ",
@@ -340,7 +340,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:11",
+      "time": "11:45:10",
       "game_id": "2025021272",
       "home_team": "WPG",
       "away_team": "PHI",
@@ -355,7 +355,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:11",
+      "time": "11:45:11",
       "game_id": "2025021273",
       "home_team": "SEA",
       "away_team": "CGY",
@@ -370,7 +370,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:12",
+      "time": "11:45:12",
       "game_id": "2025021274",
       "home_team": "COL",
       "away_team": "VGK",
@@ -385,16 +385,16 @@
     },
     {
       "date": "2026-04-11",
-      "time": "11:30:12",
+      "time": "11:45:12",
       "game_id": "2025021275",
       "home_team": "SJS",
       "away_team": "VAN",
       "home_prob": "0.6472",
       "away_prob": "0.3528",
-      "poly_home_price": "0.6600",
-      "poly_away_price": "0.3500",
-      "home_ev": "-0.0194",
-      "away_ev": "0.0080",
+      "poly_home_price": "0.6500",
+      "poly_away_price": "0.3600",
+      "home_ev": "-0.0043",
+      "away_ev": "-0.0200",
       "bet_placed": "NO",
       "bet_side": ""
     }
