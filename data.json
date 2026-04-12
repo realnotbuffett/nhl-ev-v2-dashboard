@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T18:15:10.256554+00:00",
+  "last_updated": "2026-04-12T18:30:09.864564+00:00",
   "scoreboard": [
     {
       "game_id": 2025021276,
@@ -7,7 +7,7 @@
       "home": "WSH",
       "away_score": null,
       "home_score": null,
-      "state": "FUT",
+      "state": "PRE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-12T19:00:00Z"
@@ -106,22 +106,22 @@
   "today_games": [
     {
       "date": "2026-04-12",
-      "time": "12:15:07",
+      "time": "12:30:06",
       "game_id": "2025021276",
       "home_team": "WSH",
       "away_team": "PIT",
-      "home_prob": "0.5657",
-      "away_prob": "0.4343",
-      "poly_home_price": "0.5800",
-      "poly_away_price": "0.4300",
-      "home_ev": "-0.0247",
-      "away_ev": "0.0101",
+      "home_prob": "0.5693",
+      "away_prob": "0.4307",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "-0.0351",
+      "away_ev": "0.0255",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-12",
-      "time": "12:15:07",
+      "time": "12:30:07",
       "game_id": "2025021277",
       "home_team": "NYI",
       "away_team": "MTL",
@@ -136,7 +136,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "12:15:08",
+      "time": "12:30:08",
       "game_id": "2025021278",
       "home_team": "CBJ",
       "away_team": "BOS",
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "12:15:08",
+      "time": "12:30:08",
       "game_id": "2025021279",
       "home_team": "NJD",
       "away_team": "OTT",
@@ -166,22 +166,22 @@
     },
     {
       "date": "2026-04-12",
-      "time": "12:15:09",
+      "time": "12:30:09",
       "game_id": "2025021280",
       "home_team": "ANA",
       "away_team": "VAN",
-      "home_prob": "0.7199",
-      "away_prob": "0.2801",
+      "home_prob": "0.7216",
+      "away_prob": "0.2784",
       "poly_home_price": "0.7300",
       "poly_away_price": "0.2800",
-      "home_ev": "-0.0138",
-      "away_ev": "0.0003",
+      "home_ev": "-0.0114",
+      "away_ev": "-0.0059",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-12",
-      "time": "12:15:10",
+      "time": "12:30:09",
       "game_id": "2025021281",
       "home_team": "CGY",
       "away_team": "UTA",
