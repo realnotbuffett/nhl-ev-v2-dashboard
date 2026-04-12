@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T16:15:09.218027+00:00",
+  "last_updated": "2026-04-12T16:30:09.355163+00:00",
   "scoreboard": [
     {
       "game_id": 2025021276,
@@ -106,22 +106,22 @@
   "today_games": [
     {
       "date": "2026-04-12",
-      "time": "10:15:06",
+      "time": "10:30:06",
       "game_id": "2025021276",
       "home_team": "WSH",
       "away_team": "PIT",
-      "home_prob": "0.5985",
-      "away_prob": "0.4015",
+      "home_prob": "0.5871",
+      "away_prob": "0.4129",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "0.0144",
-      "away_ev": "-0.0441",
+      "home_ev": "-0.0050",
+      "away_ev": "-0.0168",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-12",
-      "time": "10:15:06",
+      "time": "10:30:06",
       "game_id": "2025021277",
       "home_team": "NYI",
       "away_team": "MTL",
@@ -136,7 +136,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "10:15:07",
+      "time": "10:30:07",
       "game_id": "2025021278",
       "home_team": "CBJ",
       "away_team": "BOS",
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "10:15:07",
+      "time": "10:30:08",
       "game_id": "2025021279",
       "home_team": "NJD",
       "away_team": "OTT",
@@ -166,22 +166,22 @@
     },
     {
       "date": "2026-04-12",
-      "time": "10:15:08",
+      "time": "10:30:08",
       "game_id": "2025021280",
       "home_team": "ANA",
       "away_team": "VAN",
-      "home_prob": "0.7143",
-      "away_prob": "0.2857",
+      "home_prob": "0.7161",
+      "away_prob": "0.2839",
       "poly_home_price": "0.7300",
       "poly_away_price": "0.2800",
-      "home_ev": "-0.0215",
-      "away_ev": "0.0204",
+      "home_ev": "-0.0191",
+      "away_ev": "0.0140",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-12",
-      "time": "10:15:09",
+      "time": "10:30:09",
       "game_id": "2025021281",
       "home_team": "CGY",
       "away_team": "UTA",
