@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T02:15:04.232794+00:00",
+  "last_updated": "2026-04-12T02:30:04.290644+00:00",
   "scoreboard": [
     {
       "game_id": 2025021261,
@@ -117,7 +117,7 @@
       "home": "MTL",
       "away_score": 5,
       "home_score": 2,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-11T23:00:00Z"
@@ -128,7 +128,7 @@
       "home": "WPG",
       "away_score": 7,
       "home_score": 1,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-11T23:00:00Z"
@@ -139,7 +139,7 @@
       "home": "SEA",
       "away_score": 1,
       "home_score": 4,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-11T23:00:00Z"
