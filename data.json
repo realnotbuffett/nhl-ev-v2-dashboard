@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T02:30:04.290644+00:00",
+  "last_updated": "2026-04-12T02:45:04.226705+00:00",
   "scoreboard": [
     {
       "game_id": 2025021261,
@@ -150,9 +150,9 @@
       "home": "COL",
       "away_score": 2,
       "home_score": 2,
-      "state": "LIVE",
-      "period": 3,
-      "period_type": "REG",
+      "state": "CRIT",
+      "period": 4,
+      "period_type": "OT",
       "start_time": "2026-04-12T00:00:00Z"
     },
     {
@@ -160,7 +160,7 @@
       "away": "VAN",
       "home": "SJS",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
