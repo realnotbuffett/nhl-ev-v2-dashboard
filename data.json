@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T20:00:08.109393+00:00",
+  "last_updated": "2026-04-12T20:15:08.253475+00:00",
   "scoreboard": [
     {
       "game_id": 2025021276,
@@ -8,7 +8,7 @@
       "away_score": 0,
       "home_score": 0,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-12T19:00:00Z"
     },
@@ -106,7 +106,7 @@
   "today_games": [
     {
       "date": "2026-04-12",
-      "time": "14:00:05",
+      "time": "14:15:05",
       "game_id": "2025021277",
       "home_team": "NYI",
       "away_team": "MTL",
@@ -121,7 +121,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:00:06",
+      "time": "14:15:06",
       "game_id": "2025021278",
       "home_team": "CBJ",
       "away_team": "BOS",
@@ -136,22 +136,22 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:00:06",
+      "time": "14:15:07",
       "game_id": "2025021279",
       "home_team": "NJD",
       "away_team": "OTT",
-      "home_prob": "0.4492",
-      "away_prob": "0.5508",
+      "home_prob": "0.4555",
+      "away_prob": "0.5445",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0442",
-      "away_ev": "0.0199",
+      "home_ev": "-0.0309",
+      "away_ev": "0.0084",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-12",
-      "time": "14:00:07",
+      "time": "14:15:07",
       "game_id": "2025021280",
       "home_team": "ANA",
       "away_team": "VAN",
@@ -166,7 +166,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:00:08",
+      "time": "14:15:08",
       "game_id": "2025021281",
       "home_team": "CGY",
       "away_team": "UTA",
