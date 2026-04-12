@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T00:00:06.513992+00:00",
+  "last_updated": "2026-04-12T00:15:06.164858+00:00",
   "scoreboard": [
     {
       "game_id": 2025021261,
@@ -73,7 +73,7 @@
       "home": "NSH",
       "away_score": 1,
       "home_score": 2,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-11T21:00:00Z"
@@ -95,7 +95,7 @@
       "home": "UTA",
       "away_score": 4,
       "home_score": 1,
-      "state": "CRIT",
+      "state": "FINAL",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-11T21:00:00Z"
@@ -107,7 +107,7 @@
       "away_score": 2,
       "home_score": 0,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-11T23:00:00Z"
     },
@@ -115,10 +115,10 @@
       "game_id": 2025021271,
       "away": "CBJ",
       "home": "MTL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 1,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-11T23:00:00Z"
     },
@@ -129,7 +129,7 @@
       "away_score": 3,
       "home_score": 1,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-11T23:00:00Z"
     },
@@ -137,10 +137,10 @@
       "game_id": 2025021273,
       "away": "CGY",
       "home": "SEA",
-      "away_score": 0,
-      "home_score": 0,
+      "away_score": 1,
+      "home_score": 1,
       "state": "LIVE",
-      "period": 1,
+      "period": 2,
       "period_type": "REG",
       "start_time": "2026-04-11T23:00:00Z"
     },
@@ -205,7 +205,7 @@
   "today_games": [
     {
       "date": "2026-04-11",
-      "time": "18:00:05",
+      "time": "18:15:05",
       "game_id": "2025021274",
       "home_team": "COL",
       "away_team": "VGK",
@@ -220,7 +220,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "18:00:06",
+      "time": "18:15:06",
       "game_id": "2025021275",
       "home_team": "SJS",
       "away_team": "VAN",
