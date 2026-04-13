@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T02:30:04.509309+00:00",
+  "last_updated": "2026-04-13T02:45:04.339366+00:00",
   "scoreboard": [
     {
       "game_id": 2025021276,
@@ -40,7 +40,7 @@
       "home": "NJD",
       "away_score": 3,
       "home_score": 4,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 4,
       "period_type": "OT",
       "start_time": "2026-04-12T23:00:00Z"
@@ -51,9 +51,9 @@
       "home": "ANA",
       "away_score": 3,
       "home_score": 3,
-      "state": "LIVE",
-      "period": 3,
-      "period_type": "REG",
+      "state": "CRIT",
+      "period": 4,
+      "period_type": "OT",
       "start_time": "2026-04-13T00:00:00Z"
     },
     {
