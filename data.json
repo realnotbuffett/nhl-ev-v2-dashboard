@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T01:15:05.426606+00:00",
+  "last_updated": "2026-04-13T01:30:04.596707+00:00",
   "scoreboard": [
     {
       "game_id": 2025021276,
@@ -29,7 +29,7 @@
       "home": "CBJ",
       "away_score": 3,
       "home_score": 2,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-12T22:00:00Z"
@@ -39,8 +39,8 @@
       "away": "OTT",
       "home": "NJD",
       "away_score": 3,
-      "home_score": 2,
-      "state": "LIVE",
+      "home_score": 3,
+      "state": "CRIT",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-12T23:00:00Z"
@@ -61,7 +61,7 @@
       "away": "UTA",
       "home": "CGY",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 2,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
