@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T00:30:06.702464+00:00",
+  "last_updated": "2026-04-13T00:45:06.453200+00:00",
   "scoreboard": [
     {
       "game_id": 2025021276,
@@ -16,9 +16,9 @@
       "game_id": 2025021277,
       "away": "MTL",
       "home": "NYI",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 1,
-      "state": "CRIT",
+      "state": "FINAL",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-12T22:00:00Z"
@@ -29,7 +29,7 @@
       "home": "CBJ",
       "away_score": 3,
       "home_score": 2,
-      "state": "CRIT",
+      "state": "FINAL",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-12T22:00:00Z"
@@ -38,7 +38,7 @@
       "game_id": 2025021279,
       "away": "OTT",
       "home": "NJD",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
       "state": "LIVE",
       "period": 2,
@@ -49,7 +49,7 @@
       "game_id": 2025021280,
       "away": "VAN",
       "home": "ANA",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 1,
       "state": "LIVE",
       "period": 1,
@@ -136,16 +136,16 @@
   "today_games": [
     {
       "date": "2026-04-12",
-      "time": "18:30:06",
+      "time": "18:45:06",
       "game_id": "2025021281",
       "home_team": "CGY",
       "away_team": "UTA",
-      "home_prob": "0.3990",
-      "away_prob": "0.6010",
-      "poly_home_price": "0.4100",
+      "home_prob": "0.3946",
+      "away_prob": "0.6054",
+      "poly_home_price": "0.4200",
       "poly_away_price": "0.6000",
-      "home_ev": "-0.0268",
-      "away_ev": "0.0016",
+      "home_ev": "-0.0605",
+      "away_ev": "0.0090",
       "bet_placed": "NO",
       "bet_side": ""
     }
