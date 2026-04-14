@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T00:45:12.094008+00:00",
+  "last_updated": "2026-04-14T01:00:08.294647+00:00",
   "scoreboard": [
     {
       "game_id": 2025021282,
@@ -19,7 +19,7 @@
       "away_score": 2,
       "home_score": 2,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-13T23:00:00Z"
     },
@@ -30,7 +30,7 @@
       "away_score": 2,
       "home_score": 2,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-13T23:00:00Z"
     },
@@ -38,7 +38,7 @@
       "game_id": 2025021285,
       "away": "DAL",
       "home": "TOR",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 3,
       "state": "LIVE",
       "period": 2,
@@ -84,7 +84,7 @@
       "home": "EDM",
       "away_score": null,
       "home_score": null,
-      "state": "FUT",
+      "state": "PRE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-14T01:30:00Z"
@@ -95,7 +95,7 @@
       "home": "SEA",
       "away_score": null,
       "home_score": null,
-      "state": "FUT",
+      "state": "PRE",
       "period": 1,
       "period_type": "REG",
       "start_time": "2026-04-14T01:30:00Z"
@@ -210,22 +210,22 @@
   "today_games": [
     {
       "date": "2026-04-13",
-      "time": "18:45:06",
+      "time": "19:00:07",
       "game_id": "2025021289",
       "home_team": "EDM",
       "away_team": "COL",
       "home_prob": "0.4631",
       "away_prob": "0.5369",
       "poly_home_price": "0.4700",
-      "poly_away_price": "0.5400",
+      "poly_away_price": "0.5500",
       "home_ev": "-0.0147",
-      "away_ev": "-0.0057",
+      "away_ev": "-0.0238",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-13",
-      "time": "18:45:06",
+      "time": "19:00:07",
       "game_id": "2025021291",
       "home_team": "SEA",
       "away_team": "LAK",
@@ -240,16 +240,16 @@
     },
     {
       "date": "2026-04-13",
-      "time": "18:45:12",
+      "time": "19:00:08",
       "game_id": "2025021290",
       "home_team": "VGK",
       "away_team": "WPG",
       "home_prob": "0.6107",
       "away_prob": "0.3893",
-      "poly_home_price": "0.6400",
-      "poly_away_price": "0.3700",
-      "home_ev": "-0.0458",
-      "away_ev": "0.0521",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0306",
+      "away_ev": "0.0245",
       "bet_placed": "NO",
       "bet_side": ""
     }
