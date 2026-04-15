@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T02:15:04.947773+00:00",
+  "last_updated": "2026-04-15T02:30:05.124117+00:00",
   "scoreboard": [
     {
       "game_id": 2025021292,
@@ -7,7 +7,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 4,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-14T23:00:00Z"
@@ -50,8 +50,8 @@
       "away": "ANA",
       "home": "MIN",
       "away_score": 1,
-      "home_score": 2,
-      "state": "LIVE",
+      "home_score": 3,
+      "state": "CRIT",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-15T00:00:00Z"
@@ -71,8 +71,8 @@
       "game_id": 2025021298,
       "away": "COL",
       "home": "CGY",
-      "away_score": 0,
-      "home_score": 0,
+      "away_score": 1,
+      "home_score": 1,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
@@ -82,8 +82,8 @@
       "game_id": 2025021299,
       "away": "PIT",
       "home": "STL",
-      "away_score": 2,
-      "home_score": 0,
+      "away_score": 3,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
@@ -94,7 +94,7 @@
       "away": "LAK",
       "home": "VAN",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 1,
       "state": "LIVE",
       "period": 1,
       "period_type": "REG",
