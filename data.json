@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T00:45:05.221958+00:00",
+  "last_updated": "2026-04-16T01:00:05.698516+00:00",
   "scoreboard": [
     {
       "game_id": 2025021301,
@@ -8,7 +8,7 @@
       "away_score": 3,
       "home_score": 3,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-15T23:00:00Z"
     },
@@ -19,7 +19,7 @@
       "away_score": 4,
       "home_score": 1,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-15T23:00:00Z"
     },
@@ -30,7 +30,7 @@
       "away_score": 1,
       "home_score": 5,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-15T23:00:00Z"
     },
@@ -49,7 +49,7 @@
       "game_id": 2025021305,
       "away": "SJS",
       "home": "CHI",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 1,
@@ -241,16 +241,16 @@
   "today_games": [
     {
       "date": "2026-04-15",
-      "time": "18:45:05",
+      "time": "19:00:05",
       "game_id": "2025021306",
       "home_team": "VGK",
       "away_team": "SEA",
-      "home_prob": "0.7324",
-      "away_prob": "0.2676",
+      "home_prob": "0.7386",
+      "away_prob": "0.2614",
       "poly_home_price": "0.7400",
       "poly_away_price": "0.2700",
-      "home_ev": "-0.0103",
-      "away_ev": "-0.0089",
+      "home_ev": "-0.0019",
+      "away_ev": "-0.0319",
       "bet_placed": "NO",
       "bet_side": ""
     }
