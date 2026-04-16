@@ -1,74 +1,74 @@
 {
-  "last_updated": "2026-04-16T02:45:04.062263+00:00",
+  "last_updated": "2026-04-16T16:00:08.173362+00:00",
   "scoreboard": [
     {
-      "game_id": 2025021301,
-      "away": "DAL",
-      "home": "BUF",
-      "away_score": 4,
-      "home_score": 3,
-      "state": "OFF",
-      "period": 5,
-      "period_type": "SO",
-      "start_time": "2026-04-15T23:00:00Z"
-    },
-    {
-      "game_id": 2025021302,
-      "away": "NYR",
-      "home": "TBL",
-      "away_score": 4,
-      "home_score": 2,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-15T23:00:00Z"
-    },
-    {
-      "game_id": 2025021303,
-      "away": "DET",
-      "home": "FLA",
-      "away_score": 1,
-      "home_score": 8,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-15T23:00:00Z"
-    },
-    {
-      "game_id": 2025021304,
-      "away": "TOR",
-      "home": "OTT",
-      "away_score": 1,
-      "home_score": 3,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-15T23:30:00Z"
-    },
-    {
-      "game_id": 2025021305,
-      "away": "SJS",
-      "home": "CHI",
-      "away_score": 2,
-      "home_score": 3,
-      "state": "LIVE",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-16T00:30:00Z"
-    },
-    {
-      "game_id": 2025021306,
-      "away": "SEA",
-      "home": "VGK",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "LIVE",
+      "game_id": 2025021309,
+      "away": "STL",
+      "home": "UTA",
+      "away_score": null,
+      "home_score": null,
+      "state": "FUT",
       "period": 1,
       "period_type": "REG",
-      "start_time": "2026-04-16T02:00:00Z"
+      "start_time": "2026-04-16T23:30:00Z"
+    },
+    {
+      "game_id": 2025021307,
+      "away": "ANA",
+      "home": "NSH",
+      "away_score": null,
+      "home_score": null,
+      "state": "FUT",
+      "period": 1,
+      "period_type": "REG",
+      "start_time": "2026-04-17T00:00:00Z"
+    },
+    {
+      "game_id": 2025021308,
+      "away": "SJS",
+      "home": "WPG",
+      "away_score": null,
+      "home_score": null,
+      "state": "FUT",
+      "period": 1,
+      "period_type": "REG",
+      "start_time": "2026-04-17T00:00:00Z"
+    },
+    {
+      "game_id": 2025021310,
+      "away": "LAK",
+      "home": "CGY",
+      "away_score": null,
+      "home_score": null,
+      "state": "FUT",
+      "period": 1,
+      "period_type": "REG",
+      "start_time": "2026-04-17T01:00:00Z"
+    },
+    {
+      "game_id": 2025021311,
+      "away": "VAN",
+      "home": "EDM",
+      "away_score": null,
+      "home_score": null,
+      "state": "FUT",
+      "period": 1,
+      "period_type": "REG",
+      "start_time": "2026-04-17T01:00:00Z"
+    },
+    {
+      "game_id": 2025021312,
+      "away": "SEA",
+      "home": "COL",
+      "away_score": null,
+      "home_score": null,
+      "state": "FUT",
+      "period": 1,
+      "period_type": "REG",
+      "start_time": "2026-04-17T02:00:00Z"
     }
   ],
-  "today": "2026-04-15",
+  "today": "2026-04-16",
   "mode": "LIVE",
   "bot_version": "v2 (Pinnacle)",
   "bets": [
@@ -217,10 +217,10 @@
       "polymarket_price": "0.4000",
       "ev_pct": "5.89%",
       "bet_size": "$10.00",
-      "order_status": "pending",
+      "order_status": "filled",
       "filled_size": "",
-      "result": "",
-      "profit": ""
+      "result": "win",
+      "profit": "15.00"
     },
     {
       "date": "2026-04-15",
@@ -234,13 +234,104 @@
       "bet_size": "$10.00",
       "order_status": "filled",
       "filled_size": "10.0",
-      "result": "",
-      "profit": ""
+      "result": "win",
+      "profit": "15.64"
     }
   ],
-  "today_games": [],
+  "today_games": [
+    {
+      "date": "2026-04-16",
+      "time": "10:00:04",
+      "game_id": "2025021309",
+      "home_team": "UTA",
+      "away_team": "STL",
+      "home_prob": "0.4606",
+      "away_prob": "0.5394",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "0.0235",
+      "away_ev": "-0.0367",
+      "bet_placed": "NO",
+      "bet_side": ""
+    },
+    {
+      "date": "2026-04-16",
+      "time": "10:00:05",
+      "game_id": "2025021307",
+      "home_team": "NSH",
+      "away_team": "ANA",
+      "home_prob": "0.4668",
+      "away_prob": "0.5332",
+      "poly_home_price": "0.4700",
+      "poly_away_price": "0.5400",
+      "home_ev": "-0.0067",
+      "away_ev": "-0.0127",
+      "bet_placed": "NO",
+      "bet_side": ""
+    },
+    {
+      "date": "2026-04-16",
+      "time": "10:00:06",
+      "game_id": "2025021308",
+      "home_team": "WPG",
+      "away_team": "SJS",
+      "home_prob": "0.5961",
+      "away_prob": "0.4039",
+      "poly_home_price": "0.6000",
+      "poly_away_price": "0.4100",
+      "home_ev": "-0.0066",
+      "away_ev": "-0.0148",
+      "bet_placed": "NO",
+      "bet_side": ""
+    },
+    {
+      "date": "2026-04-16",
+      "time": "10:00:06",
+      "game_id": "2025021310",
+      "home_team": "CGY",
+      "away_team": "LAK",
+      "home_prob": "0.4322",
+      "away_prob": "0.5678",
+      "poly_home_price": "0.4300",
+      "poly_away_price": "0.5800",
+      "home_ev": "0.0050",
+      "away_ev": "-0.0210",
+      "bet_placed": "NO",
+      "bet_side": ""
+    },
+    {
+      "date": "2026-04-16",
+      "time": "10:00:07",
+      "game_id": "2025021311",
+      "home_team": "EDM",
+      "away_team": "VAN",
+      "home_prob": "0.7329",
+      "away_prob": "0.2671",
+      "poly_home_price": "0.7400",
+      "poly_away_price": "0.2700",
+      "home_ev": "-0.0096",
+      "away_ev": "-0.0109",
+      "bet_placed": "NO",
+      "bet_side": ""
+    },
+    {
+      "date": "2026-04-16",
+      "time": "10:00:08",
+      "game_id": "2025021312",
+      "home_team": "COL",
+      "away_team": "SEA",
+      "home_prob": "0.6174",
+      "away_prob": "0.3826",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0199",
+      "away_ev": "0.0068",
+      "bet_placed": "NO",
+      "bet_side": ""
+    }
+  ],
   "stats": {
-    "total_bets_today": 2,
+    "total_bets_today": 0,
     "total_bets_all_time": 11
   }
 }
