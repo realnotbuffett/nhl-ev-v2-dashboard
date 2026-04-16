@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T17:15:08.527171+00:00",
+  "last_updated": "2026-04-16T17:30:08.594870+00:00",
   "scoreboard": [
     {
       "game_id": 2025021309,
@@ -241,7 +241,7 @@
   "today_games": [
     {
       "date": "2026-04-16",
-      "time": "11:15:05",
+      "time": "11:30:05",
       "game_id": "2025021309",
       "home_team": "UTA",
       "away_team": "STL",
@@ -256,22 +256,22 @@
     },
     {
       "date": "2026-04-16",
-      "time": "11:15:06",
+      "time": "11:30:06",
       "game_id": "2025021307",
       "home_team": "NSH",
       "away_team": "ANA",
-      "home_prob": "0.4617",
-      "away_prob": "0.5383",
+      "home_prob": "0.4631",
+      "away_prob": "0.5369",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0381",
-      "away_ev": "0.0156",
+      "home_ev": "-0.0352",
+      "away_ev": "0.0130",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-16",
-      "time": "11:15:06",
+      "time": "11:30:06",
       "game_id": "2025021308",
       "home_team": "WPG",
       "away_team": "SJS",
@@ -286,7 +286,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "11:15:07",
+      "time": "11:30:07",
       "game_id": "2025021310",
       "home_team": "CGY",
       "away_team": "LAK",
@@ -301,22 +301,22 @@
     },
     {
       "date": "2026-04-16",
-      "time": "11:15:07",
+      "time": "11:30:07",
       "game_id": "2025021311",
       "home_team": "EDM",
       "away_team": "VAN",
-      "home_prob": "0.7313",
-      "away_prob": "0.2687",
+      "home_prob": "0.7365",
+      "away_prob": "0.2635",
       "poly_home_price": "0.7300",
       "poly_away_price": "0.2800",
-      "home_ev": "0.0018",
-      "away_ev": "-0.0404",
+      "home_ev": "0.0089",
+      "away_ev": "-0.0590",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-16",
-      "time": "11:15:08",
+      "time": "11:30:08",
       "game_id": "2025021312",
       "home_team": "COL",
       "away_team": "SEA",
