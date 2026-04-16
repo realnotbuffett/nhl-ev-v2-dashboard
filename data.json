@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T02:30:04.648782+00:00",
+  "last_updated": "2026-04-16T02:45:04.062263+00:00",
   "scoreboard": [
     {
       "game_id": 2025021301,
@@ -40,7 +40,7 @@
       "home": "OTT",
       "away_score": 1,
       "home_score": 3,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-15T23:30:00Z"
@@ -50,7 +50,7 @@
       "away": "SJS",
       "home": "CHI",
       "away_score": 2,
-      "home_score": 1,
+      "home_score": 3,
       "state": "LIVE",
       "period": 3,
       "period_type": "REG",
