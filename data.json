@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T16:15:08.016081+00:00",
+  "last_updated": "2026-04-16T16:30:08.879659+00:00",
   "scoreboard": [
     {
       "game_id": 2025021309,
@@ -241,7 +241,7 @@
   "today_games": [
     {
       "date": "2026-04-16",
-      "time": "10:15:05",
+      "time": "10:30:05",
       "game_id": "2025021309",
       "home_team": "UTA",
       "away_team": "STL",
@@ -256,7 +256,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "10:15:06",
+      "time": "10:30:06",
       "game_id": "2025021307",
       "home_team": "NSH",
       "away_team": "ANA",
@@ -271,37 +271,37 @@
     },
     {
       "date": "2026-04-16",
-      "time": "10:15:06",
+      "time": "10:30:07",
       "game_id": "2025021308",
       "home_team": "WPG",
       "away_team": "SJS",
-      "home_prob": "",
-      "away_prob": "",
-      "poly_home_price": "",
-      "poly_away_price": "",
-      "home_ev": "",
-      "away_ev": "",
+      "home_prob": "0.5916",
+      "away_prob": "0.4084",
+      "poly_home_price": "0.6000",
+      "poly_away_price": "0.4100",
+      "home_ev": "-0.0140",
+      "away_ev": "-0.0039",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-16",
-      "time": "10:15:06",
+      "time": "10:30:07",
       "game_id": "2025021310",
       "home_team": "CGY",
       "away_team": "LAK",
-      "home_prob": "0.4322",
-      "away_prob": "0.5678",
-      "poly_home_price": "0.4300",
-      "poly_away_price": "0.5800",
-      "home_ev": "0.0050",
-      "away_ev": "-0.0210",
+      "home_prob": "0.4094",
+      "away_prob": "0.5906",
+      "poly_home_price": "0.4200",
+      "poly_away_price": "0.5900",
+      "home_ev": "-0.0252",
+      "away_ev": "0.0010",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-16",
-      "time": "10:15:07",
+      "time": "10:30:08",
       "game_id": "2025021311",
       "home_team": "EDM",
       "away_team": "VAN",
@@ -316,7 +316,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "10:15:08",
+      "time": "10:30:08",
       "game_id": "2025021312",
       "home_team": "COL",
       "away_team": "SEA",
