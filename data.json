@@ -1,74 +1,7 @@
 {
-  "last_updated": "2026-04-17T02:45:03.999995+00:00",
-  "scoreboard": [
-    {
-      "game_id": 2025021309,
-      "away": "STL",
-      "home": "UTA",
-      "away_score": 5,
-      "home_score": 3,
-      "state": "OFF",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-16T23:30:00Z"
-    },
-    {
-      "game_id": 2025021307,
-      "away": "ANA",
-      "home": "NSH",
-      "away_score": 5,
-      "home_score": 4,
-      "state": "FINAL",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-17T00:00:00Z"
-    },
-    {
-      "game_id": 2025021308,
-      "away": "SJS",
-      "home": "WPG",
-      "away_score": 6,
-      "home_score": 1,
-      "state": "FINAL",
-      "period": 3,
-      "period_type": "REG",
-      "start_time": "2026-04-17T00:00:00Z"
-    },
-    {
-      "game_id": 2025021310,
-      "away": "LAK",
-      "home": "CGY",
-      "away_score": 1,
-      "home_score": 1,
-      "state": "LIVE",
-      "period": 2,
-      "period_type": "REG",
-      "start_time": "2026-04-17T01:00:00Z"
-    },
-    {
-      "game_id": 2025021311,
-      "away": "VAN",
-      "home": "EDM",
-      "away_score": 1,
-      "home_score": 5,
-      "state": "LIVE",
-      "period": 2,
-      "period_type": "REG",
-      "start_time": "2026-04-17T01:00:00Z"
-    },
-    {
-      "game_id": 2025021312,
-      "away": "SEA",
-      "home": "COL",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "LIVE",
-      "period": 1,
-      "period_type": "REG",
-      "start_time": "2026-04-17T02:00:00Z"
-    }
-  ],
-  "today": "2026-04-16",
+  "last_updated": "2026-04-17T16:00:02.715106+00:00",
+  "scoreboard": [],
+  "today": "2026-04-17",
   "mode": "LIVE",
   "bot_version": "v2 (Pinnacle)",
   "bets": [
@@ -247,15 +180,15 @@
       "polymarket_price": "0.3500",
       "ev_pct": "5.26%",
       "bet_size": "$10.00",
-      "order_status": "pending",
+      "order_status": "filled",
       "filled_size": "",
-      "result": "",
-      "profit": ""
+      "result": "loss",
+      "profit": "-10.00"
     }
   ],
   "today_games": [],
   "stats": {
-    "total_bets_today": 1,
+    "total_bets_today": 0,
     "total_bets_all_time": 12
   }
 }
