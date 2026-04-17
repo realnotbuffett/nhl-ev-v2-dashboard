@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T02:30:04.448813+00:00",
+  "last_updated": "2026-04-17T02:45:03.999995+00:00",
   "scoreboard": [
     {
       "game_id": 2025021309,
@@ -7,7 +7,7 @@
       "home": "UTA",
       "away_score": 5,
       "home_score": 3,
-      "state": "FINAL",
+      "state": "OFF",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-16T23:30:00Z"
@@ -16,9 +16,9 @@
       "game_id": 2025021307,
       "away": "ANA",
       "home": "NSH",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 4,
-      "state": "CRIT",
+      "state": "FINAL",
       "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-17T00:00:00Z"
@@ -50,7 +50,7 @@
       "away": "VAN",
       "home": "EDM",
       "away_score": 1,
-      "home_score": 4,
+      "home_score": 5,
       "state": "LIVE",
       "period": 2,
       "period_type": "REG",
