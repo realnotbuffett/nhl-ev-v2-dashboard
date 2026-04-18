@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T17:45:06.380163+00:00",
+  "last_updated": "2026-04-18T18:15:06.356020+00:00",
   "scoreboard": [
     {
       "game_id": 2025030131,
@@ -268,37 +268,37 @@
   "today_games": [
     {
       "date": "2026-04-18",
-      "time": "11:45:05",
+      "time": "12:15:05",
       "game_id": "2025030131",
       "home_team": "CAR",
       "away_team": "OTT",
-      "home_prob": "0.5775",
-      "away_prob": "0.4225",
+      "home_prob": "0.5800",
+      "away_prob": "0.4200",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0977",
-      "away_ev": "0.0833",
+      "home_ev": "-0.0938",
+      "away_ev": "0.0769",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-18",
-      "time": "11:45:05",
+      "time": "12:15:05",
       "game_id": "2025030161",
       "home_team": "DAL",
       "away_team": "MIN",
-      "home_prob": "0.5269",
-      "away_prob": "0.4731",
-      "poly_home_price": "0.3500",
+      "home_prob": "0.5357",
+      "away_prob": "0.4643",
+      "poly_home_price": "0.3400",
       "poly_away_price": "0.6700",
-      "home_ev": "0.5053",
-      "away_ev": "-0.2938",
+      "home_ev": "0.5756",
+      "away_ev": "-0.3070",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-18",
-      "time": "11:45:06",
+      "time": "12:15:06",
       "game_id": "2025030141",
       "home_team": "PIT",
       "away_team": "PHI",
