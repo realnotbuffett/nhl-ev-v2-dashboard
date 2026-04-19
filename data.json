@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T01:30:05.088801+00:00",
+  "last_updated": "2026-04-19T01:45:04.899845+00:00",
   "scoreboard": [
     {
       "game_id": 2025030131,
@@ -27,7 +27,7 @@
       "game_id": 2025030141,
       "away": "PHI",
       "home": "PIT",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "LIVE",
       "period": 2,
