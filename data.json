@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-19T21:15:06.337751+00:00",
+  "last_updated": "2026-04-19T21:30:06.090777+00:00",
   "scoreboard": [
     {
       "game_id": 2025030151,
       "away": "LAK",
       "home": "COL",
       "away_score": 0,
-      "home_score": 1,
+      "home_score": 2,
       "state": "LIVE",
       "period": 3,
       "period_type": "REG",
@@ -309,7 +309,7 @@
   "today_games": [
     {
       "date": "2026-04-19",
-      "time": "15:15:04",
+      "time": "15:30:04",
       "game_id": "2025030121",
       "home_team": "TBL",
       "away_team": "MTL",
@@ -324,31 +324,31 @@
     },
     {
       "date": "2026-04-19",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "2025030111",
       "home_team": "BUF",
       "away_team": "BOS",
       "home_prob": "0.5941",
       "away_prob": "0.4059",
-      "poly_home_price": "0.3800",
+      "poly_home_price": "0.2000",
       "poly_away_price": "0.9800",
-      "home_ev": "0.5633",
+      "home_ev": "1.9703",
       "away_ev": "-0.5858",
       "bet_placed": "NO",
       "bet_side": ""
     },
     {
       "date": "2026-04-19",
-      "time": "15:15:06",
+      "time": "15:30:06",
       "game_id": "2025030171",
       "home_team": "VGK",
       "away_team": "UTA",
-      "home_prob": "0.5821",
-      "away_prob": "0.4179",
+      "home_prob": "0.5810",
+      "away_prob": "0.4190",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0134",
-      "away_ev": "-0.0050",
+      "home_ev": "-0.0152",
+      "away_ev": "-0.0025",
       "bet_placed": "NO",
       "bet_side": ""
     }
