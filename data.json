@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T23:00:05.538548+00:00",
+  "last_updated": "2026-04-19T23:15:06.100211+00:00",
   "scoreboard": [
     {
       "game_id": 2025030151,
@@ -16,7 +16,7 @@
       "game_id": 2025030121,
       "away": "MTL",
       "home": "TBL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
       "state": "LIVE",
       "period": 2,
@@ -309,7 +309,7 @@
   "today_games": [
     {
       "date": "2026-04-19",
-      "time": "17:00:04",
+      "time": "17:15:05",
       "game_id": "2025030111",
       "home_team": "BUF",
       "away_team": "BOS",
@@ -324,7 +324,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "17:00:05",
+      "time": "17:15:06",
       "game_id": "2025030171",
       "home_team": "VGK",
       "away_team": "UTA",
