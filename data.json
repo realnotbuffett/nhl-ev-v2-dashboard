@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T23:45:04.918886+00:00",
+  "last_updated": "2026-04-20T00:00:05.019472+00:00",
   "scoreboard": [
     {
       "game_id": 2025030151,
@@ -19,7 +19,7 @@
       "away_score": 2,
       "home_score": 2,
       "state": "LIVE",
-      "period": 2,
+      "period": 3,
       "period_type": "REG",
       "start_time": "2026-04-19T21:45:00Z"
     },
@@ -309,7 +309,7 @@
   "today_games": [
     {
       "date": "2026-04-19",
-      "time": "17:45:04",
+      "time": "18:00:05",
       "game_id": "2025030171",
       "home_team": "VGK",
       "away_team": "UTA",
