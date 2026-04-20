@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T20:00:07.718151+00:00",
+  "last_updated": "2026-04-20T20:15:07.932771+00:00",
   "scoreboard": [
     {
       "game_id": 2025030142,
@@ -339,7 +339,7 @@
   "today_games": [
     {
       "date": "2026-04-20",
-      "time": "14:00:05",
+      "time": "14:15:06",
       "game_id": "2025030142",
       "home_team": "PIT",
       "away_team": "PHI",
@@ -354,7 +354,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "14:00:06",
+      "time": "14:15:06",
       "game_id": "2025030132",
       "home_team": "CAR",
       "away_team": "OTT",
@@ -369,7 +369,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "14:00:07",
+      "time": "14:15:07",
       "game_id": "2025030162",
       "home_team": "DAL",
       "away_team": "MIN",
@@ -384,16 +384,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "14:00:07",
+      "time": "14:15:07",
       "game_id": "2025030181",
       "home_team": "EDM",
       "away_team": "ANA",
-      "home_prob": "0.6292",
-      "away_prob": "0.3708",
+      "home_prob": "0.6301",
+      "away_prob": "0.3699",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3700",
-      "home_ev": "-0.0169",
-      "away_ev": "0.0022",
+      "home_ev": "-0.0155",
+      "away_ev": "-0.0002",
       "bet_placed": "NO",
       "bet_side": ""
     }
