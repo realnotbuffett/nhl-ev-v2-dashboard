@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T16:15:16.754099+00:00",
+  "last_updated": "2026-04-20T16:30:08.949676+00:00",
   "scoreboard": [
     {
       "game_id": 2025030142,
@@ -304,12 +304,42 @@
       "filled_size": "",
       "result": "win",
       "profit": "16.32"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:30:05",
+      "home_team": "PIT",
+      "away_team": "PHI",
+      "bet_side": "away",
+      "model_prob": "0.4332",
+      "polymarket_price": "0.3800",
+      "ev_pct": "14.01%",
+      "bet_size": "$10.00",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:30:07",
+      "home_team": "DAL",
+      "away_team": "MIN",
+      "bet_side": "home",
+      "model_prob": "0.5482",
+      "polymarket_price": "0.3400",
+      "ev_pct": "61.24%",
+      "bet_size": "$10.00",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
     {
       "date": "2026-04-20",
-      "time": "10:15:10",
+      "time": "10:30:06",
       "game_id": "2025030142",
       "home_team": "PIT",
       "away_team": "PHI",
@@ -319,12 +349,12 @@
       "poly_away_price": "0.3800",
       "home_ev": "-0.1786",
       "away_ev": "0.1401",
-      "bet_placed": "NO",
-      "bet_side": ""
+      "bet_placed": "YES",
+      "bet_side": "away"
     },
     {
       "date": "2026-04-20",
-      "time": "10:15:10",
+      "time": "10:30:07",
       "game_id": "2025030132",
       "home_team": "CAR",
       "away_team": "OTT",
@@ -339,7 +369,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "10:15:16",
+      "time": "10:30:08",
       "game_id": "2025030162",
       "home_team": "DAL",
       "away_team": "MIN",
@@ -349,12 +379,12 @@
       "poly_away_price": "0.7000",
       "home_ev": "0.6124",
       "away_ev": "-0.3546",
-      "bet_placed": "NO",
-      "bet_side": ""
+      "bet_placed": "YES",
+      "bet_side": "home"
     },
     {
       "date": "2026-04-20",
-      "time": "10:15:16",
+      "time": "10:30:08",
       "game_id": "2025030181",
       "home_team": "EDM",
       "away_team": "ANA",
@@ -369,7 +399,7 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 17
+    "total_bets_today": 2,
+    "total_bets_all_time": 19
   }
 }
