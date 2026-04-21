@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T00:15:06.719981+00:00",
+  "last_updated": "2026-04-21T00:30:07.267048+00:00",
   "scoreboard": [
     {
       "game_id": 2025030142,
@@ -339,7 +339,7 @@
   "today_games": [
     {
       "date": "2026-04-20",
-      "time": "18:15:06",
+      "time": "18:30:06",
       "game_id": "2025030162",
       "home_team": "DAL",
       "away_team": "MIN",
@@ -354,16 +354,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "18:15:06",
+      "time": "18:30:07",
       "game_id": "2025030181",
       "home_team": "EDM",
       "away_team": "ANA",
-      "home_prob": "0.6325",
-      "away_prob": "0.3675",
+      "home_prob": "0.6357",
+      "away_prob": "0.3643",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3700",
-      "home_ev": "-0.0118",
-      "away_ev": "-0.0066",
+      "home_ev": "-0.0067",
+      "away_ev": "-0.0154",
       "bet_placed": "NO",
       "bet_side": ""
     }
